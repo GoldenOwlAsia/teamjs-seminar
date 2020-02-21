@@ -68,3 +68,8 @@
 ## Michael (12/12/2019)
 #### React Hook
 - Hook from zero to one: https://usehooks.com/
+
+
+## Alan (21/2/2020)
+#### Basic Promise Usage
+- https://playcode.io/503925
