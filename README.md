@@ -73,3 +73,8 @@
 ## Alan (21/2/2020)
 #### Basic Promise Usage
 - https://playcode.io/503925
+
+## Alan (20/3/2020)
+#### LogRocket: Exception Trackers, Session Replay, and Application Performance Monitoring.
+https://logrocket.com/
+Important doc: (https://docs.logrocket.com/docs/privacy)
